@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/adam-hamouch/static/css/main.5752d6de.css",
+    "main.js": "/adam-hamouch/static/js/main.f4666fe5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/adam-hamouch/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/adam-hamouch/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/adam-hamouch/static/media/blog.16137b0ce684b7b1c443.png",
+    "static/media/chatify.png": "/adam-hamouch/static/media/chatify.30e77db862c52b220045.png",
+    "static/media/codeEditor.png": "/adam-hamouch/static/media/codeEditor.55e21a74a3b9c891dfe7.png",
+    "static/media/suicide.png": "/adam-hamouch/static/media/suicide.7a666938f4e99c6c4730.png",
+    "static/media/leaf.png": "/adam-hamouch/static/media/leaf.5dd9abcdef7be309b9b6.png",
+    "static/media/home-main.svg": "/adam-hamouch/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/adam-hamouch/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Adam-HAMOUCH-CV.pdf": "/adam-hamouch/static/media/Adam-HAMOUCH-CV.8b9bbfa2d9901957812a.pdf",
+    "static/media/emotion.png": "/adam-hamouch/static/media/emotion.0d22b63271be7be05c4f.png",
+    "static/media/home-bg.jpg": "/adam-hamouch/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/adam-hamouch/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/adam-hamouch/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/adam-hamouch/index.html",
+    "main.5752d6de.css.map": "/adam-hamouch/static/css/main.5752d6de.css.map",
+    "main.f4666fe5.js.map": "/adam-hamouch/static/js/main.f4666fe5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/adam-hamouch/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/adam-hamouch/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5752d6de.css",
+    "static/js/main.f4666fe5.js"
+  ]
+}
